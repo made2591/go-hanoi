@@ -9,7 +9,11 @@ cd go-hanoi
 go run main.go
 ```
 
-Moves will be printed in stdout, with scores (number of) in the end.
+Moves will be printed in stdout, with scores (number of) in the end. Below an execution gif with 6 disks:
+
+<p>
+	<img src="./hanoi_ex.gif" width="50%"/>
+</p>
 
 ## Dependencies
 
